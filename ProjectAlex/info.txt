@@ -1,0 +1,4 @@
+скачать git https://www.git-scm.com/download/win
+скачать https://tortoisegit.org/download/
+
+сделать аккаунт на https://github.com/
